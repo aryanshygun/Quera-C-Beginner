@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		944BD9D72BFE6707003320E8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 944BD9D62BFE6707003320E8 /* main.c */; };
+		944BD9D72BFE6707003320E8 /* pushtogit.c in Sources */ = {isa = PBXBuildFile; fileRef = 944BD9D62BFE6707003320E8 /* pushtogit.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		944BD9D32BFE6707003320E8 /* C_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_Language; sourceTree = BUILT_PRODUCTS_DIR; };
-		944BD9D62BFE6707003320E8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		944BD9D62BFE6707003320E8 /* pushtogit.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pushtogit.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		944BD9D52BFE6707003320E8 /* C_Language */ = {
 			isa = PBXGroup;
 			children = (
-				944BD9D62BFE6707003320E8 /* main.c */,
+				944BD9D62BFE6707003320E8 /* pushtogit.c */,
 			);
 			path = C_Language;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				944BD9D72BFE6707003320E8 /* main.c in Sources */,
+				944BD9D72BFE6707003320E8 /* pushtogit.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
